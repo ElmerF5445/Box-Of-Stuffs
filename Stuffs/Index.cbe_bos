@@ -1,0 +1,84 @@
+{
+    "Name": "Stuff",
+    "Type": "Folder",
+    "Content": [
+        {
+            "Name": "Reviewers",
+            "Type": "Folder",
+            "Content": [
+                {
+                    "Name": "JHS_10",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Grade 10 Reviewer Full",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        }
+                    ]
+                },
+                {
+                    "Name": "SHS_11",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Grade 11 Reviewer - First Semester - Light",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        },
+                        {
+                            "Name": "Grade 11 Reviewer - Second Semester - Light",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        },
+                        {
+                            "Name": "Grade 11 Reviewer - First Semester - Dark",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        },
+                        {
+                            "Name": "Grade 11 Reviewer - Second Semester - Dark",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        }
+                    ]
+                },
+                {
+                    "Name": "SHS_12",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Grade 12 Reviewer - First Semester - Light",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        },
+                        {
+                            "Name": "Grade 12 Reviewer - Second Semester - Light",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        },
+                        {
+                            "Name": "Grade 12 Reviewer - First Semester - Dark",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        },
+                        {
+                            "Name": "Grade 12 Reviewer - Second Semester - Dark",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
